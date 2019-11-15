@@ -27,4 +27,5 @@ client.user.setGame(`=bc |GAZAREN AG |server`,"http://twitch.tv/Death Shop")
 client.user.setStatus("dnd")
 });
 
-client.login(process.env.BOT_TOKEN);
+client.login(process.env.NjQ0NjU2NzEzMDMwNTY1OTQz.Xc48cA.awwdQgsX5pgeka0pkSoj5sdfxh0
+);
